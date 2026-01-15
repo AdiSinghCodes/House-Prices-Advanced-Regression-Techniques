@@ -438,8 +438,6 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 **Project Link:** [GitHub Repository](https://github.com/yourusername/house-price-prediction)
 
-**Kaggle Profile:** [Your Kaggle Profile](https://www.kaggle.com/yourusername)
-
 ---
 
 ## 📚 References
@@ -455,3 +453,4 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 ⭐ **If you found this project helpful, please consider giving it a star!** ⭐
 
 **Last Updated:** January 15, 2026
+
