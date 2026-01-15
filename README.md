@@ -432,13 +432,6 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 - **Scikit-learn** for excellent machine learning tools
 - **Python community** for amazing libraries and support
 
-## 📧 Contact
-
-**Project Author:** Aditya
-
-**Project Link:** [GitHub Repository](https://github.com/yourusername/house-price-prediction)
-
----
 
 ## 📚 References
 
@@ -453,4 +446,5 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 ⭐ **If you found this project helpful, please consider giving it a star!** ⭐
 
 **Last Updated:** January 15, 2026
+
 
